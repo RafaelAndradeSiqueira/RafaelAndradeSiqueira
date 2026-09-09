@@ -1,24 +1,25 @@
-Sou desenvolvedor Full Stack Júnior/Pleno, atuando na área de desenvolvimento de software desde 2022. Tenho experiência com projetos que envolvem tanto o front-end quanto o back-end, e estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades.
+Sou desenvolvedor Full Stack Pleno, atuando na área de desenvolvimento de software desde 2022. Tenho experiência construindo APIs e sistemas com foco em arquitetura de microsserviços, integrações assíncronas e boas práticas de desenvolvimento.
 
 🎓 Formado em Ciência da Computação.
 
-💻 Tenho trabalhado com tecnologias como:
+💻 Tecnologias e ferramentas com as quais trabalho:
+
+Node.js / NestJS / Express
+
+PHP / Laravel
 
 JavaScript / TypeScript
 
-Java/ Spring Boot
-
 React / Vue.js
 
-Node.js / Express
+Docker / RabbitMQ / Microsserviços
 
-Laravel / PHP
+AWS / Redis
 
-MySQL / PostgreSQL / MongoDB
+PostgreSQL / MySQL / MongoDB
 
-Git / GitHub / GitLab
+Git / GitHub / GitLab / APIs REST
 
-Docker / APIs REST
+🔭 Também tenho me aprofundado em observabilidade (Prometheus, Grafana, OpenTelemetry) e explorando o uso de IA aplicada ao desenvolvimento, como o Model Context Protocol (MCP) e o Claude Code.
 
-📌 Estou sempre aberto a novas conexões e oportunidades. Você pode me encontrar no LinkedIn:
-linkedin.com/in/rafael-de-andrade-siqueira-2b68b1227
+📌 Estou sempre aberto a novas conexões e oportunidades. Você pode me encontrar no LinkedIn: linkedin.com/in/rafaelandradesiqueira
