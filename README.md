@@ -1,6 +1,7 @@
 Sou desenvolvedor Full Stack Pleno, atuando na área de desenvolvimento de software desde 2022. Tenho experiência construindo APIs e sistemas com foco em arquitetura de microsserviços, integrações assíncronas e boas práticas de desenvolvimento.
 
-🎓 Formado em Ciência da Computação.
+🎓 Formado em Ciência da Computação. 
+🎓 Pós em Engenharia de Ia Aplicada - Unipds | Em andamento
 
 💻 Tecnologias e ferramentas com as quais trabalho:
 
